@@ -1,9 +1,0 @@
-{
-  "HORIZON-DEMO-2025": {
-    "clientName": "Cliente Exemplo",
-    "domain": "teamhorizon.com.br",
-    "status": "active",
-    "expiresAt": "2026-12-31",
-    "createdAt": "2025-11-18"
-  }
-}
